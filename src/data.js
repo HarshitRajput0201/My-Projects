@@ -10,8 +10,8 @@ const data = [
 
     {
         id: 2,
-        name: "https://res.cloudinary.com/deapwdwgc/image/upload/v1706163756/My%20Projects/Profile_gfezah.jpg",
-        image: "/images/Profile.jpg",
+        name: "Profile Page",
+        image: "https://res.cloudinary.com/deapwdwgc/image/upload/v1706163756/My%20Projects/Profile_gfezah.jpg",
         info: "My Profile Page is a personalized and visually appealing web project crafted with HTML, CSS, and JavaScript to showcase and highlight individual identity and skills in a digital space. This project serves as an online representation of your personal and professional journey, providing visitors with a comprehensive glimpse into your personality, expertise, and achievements."
     },
 
